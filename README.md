@@ -82,6 +82,7 @@ QuanTetra-Academy/
 ├── MS-Office/
 ├── Accounting-Software/
 ├── Development/
+│   ├── Browser & BOM/
 │   ├── HTML/
 │   ├── CSS/
 │   ├── JavaScript/
