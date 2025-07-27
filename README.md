@@ -77,10 +77,22 @@ Fundamentals of networking, protocols, and security.
 QuanTetra-Academy/
 │
 ├── Computer-Fundamentals/
+│   ├── Hardware/
+│   ├── Software/
+│   ├── Networking/
 ├── File-Management/
 ├── Operating-System/
+│   ├── Window/
+│   ├── Mac/
+│   ├── Linux/
 ├── MS-Office/
+│   ├── Word/
+│   ├── PowerPoint/
+│   ├── Excel/
+│   ├── Power BI/
 ├── Accounting-Software/
+│   ├── ERP 9/
+│   ├── Tally Prime/
 ├── Development/
 │   ├── Browser & BOM/
 │   ├── HTML/
